@@ -31,4 +31,4 @@ jobs:
           publish_branch: main  # deploying branch
           cname: 'https://michael-graber.github.io'
           allow_empty_commit: true
-          external_repository: michael-graber
+          external_repository: michael-graber.github.io
