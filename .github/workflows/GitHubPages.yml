@@ -29,6 +29,6 @@ jobs:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./public
           publish_branch: main  # deploying branch
-          cname: 'https://michael-graber.github.io'
+          cname: 
           allow_empty_commit: true
-          external_repository: michael-graber.github.io
+          external_repository: michael-graber/michael-graber.github.io
