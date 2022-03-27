@@ -67,6 +67,6 @@ highlight_name: false
 
 I am an economist in the research department at Statistics Norway. 
 
-My research combines economic theory and applied econometric approaches to offer a richer picture of risks faced by households, and quantify household responses to changes in income and wealth.
+My research combines economic theory and applied econometric methods to study household behaviour and the dynamics of inequality. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "pdf/Graber-CV.pdf" "newtab" >}}CV{{< /staticref >}}.
