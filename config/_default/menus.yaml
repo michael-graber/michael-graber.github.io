@@ -34,5 +34,5 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: uploads/Graber-CV.pdf
+    url: pdf/Graber-CV.pdf
     weight: 30

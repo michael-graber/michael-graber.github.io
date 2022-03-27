@@ -66,6 +66,7 @@ highlight_name: false
 ---
 
 I am an economist in the research department at Statistics Norway. 
-In my research
+
+My research combines economic theory and applied econometric approaches to offer a richer picture of risks faced by households, and quantify household responses to changes in income and wealth.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "pdf/Graber-CV.pdf" "newtab" >}}CV{{< /staticref >}}.
