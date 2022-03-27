@@ -17,8 +17,16 @@ main:
  #   url: '#talks'
  #   weight: 40
   - name: Research
+    url: '#research'
+    weight: 20
+  - name: Publications
     url: '#publications'
-    weight: 50
+    parent: 'Research'
+    weight: 1
+  - name: Work in progress
+    url: '#work-in-progress'
+    parent: 'Research'
+    weight: 2
   - name: Contact
     url: '#contact'
     weight: 60
@@ -27,4 +35,4 @@ main:
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: uploads/Graber-CV.pdf
-    weight: 20
+    weight: 30
