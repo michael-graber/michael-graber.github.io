@@ -27,6 +27,10 @@ main:
     url: '#work-in-progress'
     parent: 'Research'
     weight: 2
+  - name: Reports
+    url: '#reports'
+    parent: 'Research'
+    weight: 3
   - name: Contact
     url: '#contact'
     weight: 60

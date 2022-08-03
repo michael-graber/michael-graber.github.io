@@ -1,15 +1,13 @@
 ---
-title: "High Frequency Income Dynamics"
+title: "Økonomiske analyser 02/2022"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Jeppe Druehdahl
-- Thomas H. Jørgensen
+- Statistics Norway
 
-date: "2021-11-01T00:00:00Z"
+date: "2022-06-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,15 +17,15 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Under revision*"
+publication: ""
 publication_short: "" 
 
-abstract: "We generalize the canonical permanent-transitory income process to allow for infrequent shocks. The distribution of income growth rates can then have a discrete mass point at zero and fat tails as observed in income data. We pro- vide analytical formulas for the unconditional and conditional distributions of income growth rates and higher-order moments. We prove a set of identi- fication results and numerically validate that we can simultaneously identify the frequency, variance, and persistence of income shocks. We estimate the income process on monthly panel data of 400,000 Danish males observed over 8 years. When allowing shocks to be infrequent, the proposed income process can closely match the central features of both monthly and annual income data."
+abstract: "Norway is heading towards an economic boom. Meanwhile, inflation is at a record high. A rapid rise in interest rates can therefore be expected in the period ahead. Combined with reduced prospects globally, this will slow economic growth in Norway."
 
-tags: [Consumption-saving, income dynamics, panel data models]
+tags: [Business Cycle, Economic Trends, Forecast]
 
 # Display this page in the Featured widget?
 featured: false
@@ -37,8 +35,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '/pdf/Druehdahl-Graber-Jorgensen-2021.pdf'
-url_code: 'https://github.com/JeppeDruedahl/HighFreqInc'
+url_pdf: '/pdf/OA2022-2.pdf'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
