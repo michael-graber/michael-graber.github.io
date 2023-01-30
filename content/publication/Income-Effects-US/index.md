@@ -10,7 +10,7 @@ authors:
 - Magne Mogstad
 - David Novgorodsky
 
-date: "2021-12-01T00:00:00Z"
+date: "2023-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,10 +23,10 @@ publishDate: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Revise and Resubmit (2nd round)* ***Quarterly Journal of Economics***"
+publication: "*Revised and Resubmitted* ***Quarterly Journal of Economics***"
 publication_short: "" 
 
-abstract: "We study how Americans respond to idiosyncratic and exogenous changes in household wealth and unearned income. Our analyses combine administrative data on U.S. lottery winners with an event-study design that exploits variation in the timing of lottery wins. Our first contribution is to estimate the earnings responses to these windfall gains, finding significant and sizable wealth and income effects. On average, an extra dollar of unearned income in a given period reduces pre-tax labor earnings by about 50 cents, decreases total labor taxes by 10 cents, and increases consumption by 60 cents. These effects are heterogeneous across the income distribution, with households in higher quartiles of the income distribution reducing their earnings by a larger amount. Our second contribution is to develop and apply a rich life-cycle model in which heterogeneous households face non-linear taxes and make earnings choices along both intensive and extensive margins. By mapping this model to our estimated earnings responses, we obtain informative bounds on the impacts of two policy reforms: an introduction of UBI and an increase in top marginal tax rates. Our last contribution is to study how additional wealth and unearned income affect a wide range of behavior, including geographic mobility and neighborhood choice, retirement decisions and labor market exit, family formation and dissolution, entry into entrepreneurship, and job-to-job mobility."
+abstract: "We study how Americans respond to idiosyncratic and exogenous changes in household wealth and unearned income. Our analyses combine administrative data on U.S. lottery winners with an event-study design. We first examine individual and household earnings responses to these windfall gains, finding significant and sizable wealth and income effects. On average, an extra dollar of unearned income in a given period reduces household labor earnings by about 50 cents, decreases total labor taxes by 10 cents, and increases consumption by 60 cents. These effects are heterogeneous across the income distribution, with households in higher quartiles of the income distribution reducing their earnings by a larger amount. Next, we examine margins of adjustment other than earnings and, in the course of doing so, address a number of important economic questions about how additional wealth or unearned income affect retirement decisions and labor market dynamics, family formation and dissolution, entrepreneurship and self-employment, and geographic mobility and neighborhood choice. Lastly, we carefully compare our findings to those reported in existing lottery studies. This comparison reveals that existing U.S. studies substantially underestimate wealth and income effects because they use measures that understate earnings responses and overstate wealth changes associated with lottery wins."
 
 tags: [income effects; labor supply elasticities; lottery winning; taxation; universal basic income;]
 
@@ -35,10 +35,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: NBER WP
+- name: Older Version - NBER WP
   url: http://www.nber.org/papers/w29000
 
-url_pdf: '/pdf/Golosov-Graber-Mogstad-Novgorodsky-2021.pdf'
+url_pdf: '/pdf/Golosov-Graber-Mogstad-Novgorodsky-2023.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

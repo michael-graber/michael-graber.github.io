@@ -1,5 +1,5 @@
 ---
-title: "Behavioural responses to income taxation"
+title: "Behavioural Responses to Income Taxation in Norway"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -10,7 +10,7 @@ authors:
 - Gaute Torsvik
 - Ola Vestad
 
-date: "2021-02-01T00:00:00Z"
+date: "2022-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,9 +26,9 @@ publication_types: ["3"]
 publication: ""
 publication_short: "" 
 
-abstract: ""
+abstract: "In this report, we combine theory and empirical estimates for how labor earnings respond to changes in tax rates and unearned income. We use lottery winnings to obtain variation in unearned income and tax reforms to obtain variation in the net of tax rate. Combining this information with measures of extensive margin responses and the progressivity of the Norwegian income tax schedule, we are able to point identify uncompensated and compensated behavioral responses to income taxes and therefore to calculate efficiency losses and optimal income tax rates (for given welfare weights)."
 
-tags: [Wealth effects; Lottery; Income Taxation; Norway]
+tags: [income effect, labor supply elasticities, lottery winnings, efficiency loss, optimal income taxation.]
 
 # Display this page in the Featured widget?
 featured: false
@@ -38,7 +38,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: '/pdf/Graber-Mogstad-Torsvik-Vestad-2022.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

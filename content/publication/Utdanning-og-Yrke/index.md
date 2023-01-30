@@ -1,13 +1,15 @@
 ---
-title: "Økonomiske analyser 02/2022"
+title: "Utdanning og Yrke"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Statistics Norway
+- admin
+- Lars Kirkebøen
+- Trond Christian Vigtel
 
-date: "2022-06-10T00:00:00Z"
+date: "2023-01-24"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,19 +25,19 @@ publication_types: ["4"]
 publication: ""
 publication_short: "" 
 
-abstract: "Norway is heading towards an economic boom. Meanwhile, inflation is at a record high. A rapid rise in interest rates can therefore be expected in the period ahead. Combined with reduced prospects globally, this will slow economic growth in Norway."
+abstract: "This report uses information on employees from register-based employment (2003–2014) and a-ordningen (coordinated reporting by employers about income and employees to NAV, Statistics Norway, and the Norwegian Tax Administration, 2015–2022), as well as advertised positions from NAV and Statistics Norway (2015–2022) to examine relationships between education and occupation."
 
-tags: [Business Cycle, Economic Trends, Forecast]
+tags: [Education, Occupation]
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: '/pdf/OA2022-2.pdf'
+links:
+- name: Rapporter 2023/7
+  url: https://www.ssb.no/en/arbeid-og-lonn/sysselsetting/artikler/education-and-occupation
+  
+url_pdf: '/pdf/RAPP2023-07.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
