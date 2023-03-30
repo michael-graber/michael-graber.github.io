@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Michael Graber # Website name
-baseurl: 'https://michael-graber.github.io/michael-graber-source/' #'https://michael-graber.github.io' # Website URL
+baseurl: 'https://michael-graber.github.io' # Website URL
 copyright: '© 2023 Michael Graber' # Footer text, e.g. '© {year} Me'
 
 ############################
