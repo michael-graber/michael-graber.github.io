@@ -65,7 +65,7 @@ email: "michael.r.graber@gmail.com"
 highlight_name: false
 ---
 
-I am an economist in the research department at Statistics Norway. 
+I am a research economist in the research department at Statistics Norway, and an affiliated researcher at the University of Oslo. 
 
 My research combines economic theory and applied econometric methods to study household behaviour and the dynamics of inequality. 
 
