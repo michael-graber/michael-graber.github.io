@@ -67,6 +67,6 @@ highlight_name: false
 
 I am a research economist in the research department at Statistics Norway, and an affiliated researcher at the University of Oslo. 
 
-My research combines economic theory and applied econometric methods to study household behaviour and the dynamics of inequality. 
+My research combines economic theory with credible identification strategies and rich administrative data to investigate and address complex issues surrounding economic inequality, tax policy, and labor market dynamics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "pdf/Graber-CV.pdf" "newtab" >}}CV{{< /staticref >}}.
