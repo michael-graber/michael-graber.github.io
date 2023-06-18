@@ -28,7 +28,7 @@ publication_short: ""
 
 abstract: "In this report, we combine theory and empirical estimates for how labor earnings respond to changes in tax rates and unearned income. We use lottery winnings to obtain variation in unearned income and tax reforms to obtain variation in the net of tax rate. Combining this information with measures of extensive margin responses and the progressivity of the Norwegian income tax schedule, we are able to point identify uncompensated and compensated behavioral responses to income taxes and therefore to calculate efficiency losses and optimal income tax rates (for given welfare weights)."
 
-tags: [income effect, labor supply elasticities, lottery winnings, efficiency loss, optimal income taxation.]
+tags: [income effect, labor supply elasticities, lottery winnings, efficiency loss, optimal income taxation]
 
 # Display this page in the Featured widget?
 featured: false

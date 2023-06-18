@@ -9,7 +9,7 @@ authors:
 - Jeppe Druehdahl
 - Thomas H. Jørgensen
 
-date: "2021-11-01T00:00:00Z"
+date: "2023-06-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,12 +22,12 @@ publishDate: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Under revision*"
+publication: "*Submitted*"
 publication_short: "" 
 
 abstract: "We generalize the canonical permanent-transitory income process to allow for infrequent shocks. The distribution of income growth rates can then have a discrete mass point at zero and fat tails as observed in income data. We pro- vide analytical formulas for the unconditional and conditional distributions of income growth rates and higher-order moments. We prove a set of identi- fication results and numerically validate that we can simultaneously identify the frequency, variance, and persistence of income shocks. We estimate the income process on monthly panel data of 400,000 Danish males observed over 8 years. When allowing shocks to be infrequent, the proposed income process can closely match the central features of both monthly and annual income data."
 
-tags: [Consumption-saving, income dynamics, panel data models]
+tags: [consumption saving, income dynamics, panel data models]
 
 # Display this page in the Featured widget?
 featured: false
@@ -37,7 +37,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '/pdf/Druehdahl-Graber-Jorgensen-2021.pdf'
+url_pdf: '/pdf/Druehdahl-Graber-Jorgensen-2023.pdf'
 url_code: 'https://github.com/JeppeDruedahl/HighFreqInc'
 url_dataset: ''
 url_poster: ''
