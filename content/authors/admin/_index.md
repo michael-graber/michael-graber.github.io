@@ -11,9 +11,9 @@ role: Economist
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Research Department
-  url: https://www.ssb.no/en
-- name: Statistics Norway  
-  url: https://www.ssb.no/en
+  url: https://www.ssb.no/en/forskning
+- name: Statistics Norway
+  url: https://www.ssb.no/en/forskning
 
 # Interests to show in About widget
 interests:
@@ -38,9 +38,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:mga@ssb.no'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/_mgraber
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=cniLhTcAAAAJ&hl=en
@@ -54,9 +54,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: pdf/Graber-CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "michael.r.graber@gmail.com"
@@ -65,8 +65,6 @@ email: "michael.r.graber@gmail.com"
 highlight_name: false
 ---
 
-I am a research economist in the research department at Statistics Norway, and an affiliated researcher at the University of Oslo. 
+I am a research economist in the research department at Statistics Norway, and an affiliated researcher with Norwegian Fiscal Studies at the University of Oslo. 
 
 My research combines economic theory with credible identification strategies and rich administrative data to investigate and address complex issues surrounding economic inequality, tax policy, and labor market dynamics.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "pdf/Graber-CV.pdf" "newtab" >}}CV{{< /staticref >}}.
