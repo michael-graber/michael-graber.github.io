@@ -38,9 +38,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:mga@ssb.no'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/_mgraber
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/_mgraber
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=cniLhTcAAAAJ&hl=en
@@ -54,9 +54,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: pdf/Graber-CV.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: pdf/Graber-CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "michael.r.graber@gmail.com"
