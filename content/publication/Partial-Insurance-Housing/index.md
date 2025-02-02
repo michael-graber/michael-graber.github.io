@@ -7,9 +7,10 @@ title: "Partial Insurance with Earnings, Incomes and Housing"
 authors:
 - admin
 - Richard Blundell
+- Maxwell Kellogg
 - Magne Mogstad
 
-date: "2021-03-01T00:00:00Z"
+date: "2021-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
