@@ -5,30 +5,27 @@
 
 # Appearance
 #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-theme: forest
-day_night: true
-font: ''
-font_size: M
+
+appearance:
+  mode: system
+  #theme_day: ocean
+  #theme_day: my_theme
+  theme_night: my_theme
+  #day_night: true
+  font: ''
+  font_size: M
 
 # SEO
-site_type: Person
-local_business_type: ''
-org_name: ''
-description: ''
-twitter: ''
+marketing:
+  site_type: Person
+  local_business_type: ''
+  org_name: ''
+  description: ''
+  x: ''
+  analytics:
+    google_tag_manager: 'G-VG012P8FHG'
+    baidu_tongji: ''
 
-# Contact (edit or remove options as required)
-email: michael.r.graber@gmail.com
-phone: +47 412 72 325
-address:
-  street: Akersveien 26
-  city: Oslo
-  postcode: '0177'
-  country: Norway
-  country_code: NOR
-coordinates:
-  latitude: '59.922030'
-  longitude: '10.746850'
 #contact_links:
   #- icon: twitter
   #  icon_pack: fab
@@ -48,101 +45,46 @@ coordinates:
   #  link: 'https://discourse.gohugo.io'
 
 # Site header
-
-main_menu:
-  enable: true
-  align: c
-  show_logo: true
-  show_language: false
-  show_day_night: true
-  show_search: true
-  highlight_active_link: true
+header:
+  navbar:
+    enable: true
+    align: c
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
 
 # Localization
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
+
+# Site footer
+footer:
+  copyright:
+    notice: '© {year} Me. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false  
 
 # Site features
-highlight: true
-highlight_languages:
-  - r
-math: true
-diagram: false
-privacy_pack: false
-edit_page:
-  repo_url: ''
-  content_dir: ''
-  repo_branch: main
-  editable:
-    page: false
-    post: false
-    book: false
-show_related:
-  book: false
-  page: false
-  post: false
-  project: false
-  publication: false
-  event: false
-reading_time: false
-section_pager: false
-docs_section_pager: true
-sharing: true
-copyright_license:
-  enable: false
-  allow_derivatives: false
-  share_alike: true
-  allow_commercial: false
-  notice: 'This work is licensed under {license}'
-abstract_length: 135
-plugins_js: []
-avatar:
-  gravatar: false
-  shape: circle
-publications:
-  date_format: January 2006
-  citation_style: apa
-projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
-breadcrumb:
-  page_types:
-    book: true
-comments:
-  provider: ''
-  commentable:
-    post: false
-    book: false
-    project: false
-    publication: false
-    event: false
-  disqus:
-    shortname: ''
-    show_count: true
-  commento:
-    url: ''
-search:
-  provider: wowchemy
-  algolia:
-    app_id: ''
-    api_key: ''
-    index_name: ''
-    show_logo: false
-map:
-  provider: ''
-  api_key: ''
-  zoom: 15
-marketing:
-  google_analytics: 'G-VG012P8FHG'
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
-cms:
-  branch: master
-  local_backend: false
-icon:
-  pack:
-    ai: true
+features: 
+  syntax_highlighter:
+    theme_light: github-light
+    theme_dark: dracula
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+ 
+ # Extensions
+extensions:
+  cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true

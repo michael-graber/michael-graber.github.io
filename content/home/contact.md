@@ -15,6 +15,19 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
+
+  contact:
+  email: michael.r.graber@gmail.com
+  phone: +47 412 72 325
+  address:
+    street: Akersveien 26
+    city: Oslo
+    postcode: '0177'
+    country: Norway
+    country_code: NOR
+  coordinates:
+    latitude: '59.922030'
+    longitude: '10.746850'
   
   # Email form provider
   #form:

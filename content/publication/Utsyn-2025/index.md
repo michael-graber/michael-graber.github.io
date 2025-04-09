@@ -1,15 +1,15 @@
 ---
-title: "Utdanning og Yrke (Education and Occupation)"
+title: "Kompetansebehov i arbeidsmarkedet og tilbudet av sykepleiere (Skills needs in the labor market and the supply of nurses)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Lars J. Kirkebøen
+- Lars J. Kirkebøen 
 - Trond Christian Vigtel
 
-date: "2023-01-24"
+date: "2025-04-09"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -25,19 +25,19 @@ publication_types: ["4"]
 publication: ""
 publication_short: "" 
 
-abstract: "This report uses information on employees from register-based employment (2003–2014) and a-ordningen (coordinated reporting by employers about income and employees to NAV, Statistics Norway, and the Norwegian Tax Administration, 2015–2022), as well as advertised positions from NAV and Statistics Norway (2015–2022) to examine relationships between education and occupation."
+abstract: "The Outlook Report warns of a struggle for labor, and several studies point to a shortage of nurses and other health workers. What do we know about the future need, and to what extent will today's applicants for education contribute to meeting future needs?"
 
-tags: [Education, Occupation]
+tags: [Labor market, Health, Education, Skills, Supply and demand]
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Rapporter 2023/7
-  url: https://www.ssb.no/en/arbeid-og-lonn/sysselsetting/artikler/education-and-occupation
+- name: Økonomiske analyser 1/2025 – Utsyn over året 2024
+  url: https://www.ssb.no/nasjonalregnskap-og-konjunkturer/okonomiske-analyser/okonomiske-analyser-1-2025--utsyn-over-aret-2024/_/attachment/inline/a4b2b3e0-048a-473d-acc4-7380048dd0f5:d260b702cfe87423cb6cd82f5171c757979d3daf/OA2025-1_Utsyn09april2025.pdf
   
-url_pdf: '/pdf/RAPP2023-07.pdf'
+url_pdf: '/pdf/Utsyn-2025.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
