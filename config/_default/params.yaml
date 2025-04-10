@@ -5,13 +5,14 @@
 
 # Appearance
 #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
+# or choose a custom theme, located in data/themes/my_theme.toml which is based on 
+# https://github.com/nballou/nickballousite
 
 appearance:
   mode: system
-  #theme_day: ocean
-  #theme_day: my_theme
+  theme_day: my_theme
   theme_night: my_theme
-  #day_night: true
+  day_night: true
   font: ''
   font_size: M
 

@@ -18,13 +18,10 @@ name = "my_theme"
   link = "#ad5d07"
   link_hover = "#264A33"
 
-    # Text
-  text = "#264A33"  # Match the authors' text color
-
 [dark]
   # Primary
-  primary = "#F3B26D"
-  text = "#8342a8"
+   primary = "#F3B26D"
+#  text = "#8342a8"
 #  link_decoration = "underline"
   
   menu_primary = "#0E182E"

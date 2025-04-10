@@ -1,5 +1,5 @@
 ---
-title: "Kompetansebehov i arbeidsmarkedet og tilbudet av sykepleiere (Skills needs in the labor market and the supply of nurses)"
+title: "Kompetansebehov i arbeidsmarkedet og tilbudet av sykepleiere (Skill needs in the labor market and the supply of nurses)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
