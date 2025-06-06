@@ -24,7 +24,7 @@ marketing:
   description: ''
   x: ''
   analytics:
-    google_tag_manager: 'G-VG012P8FHG'
+    google_analytics: 'G-VG012P8FHG'
     baidu_tongji: ''
 
 #contact_links:
