@@ -65,6 +65,6 @@ email: "michael.r.graber@gmail.com"
 highlight_name: false
 ---
 
-I am a research economist in the research department at Statistics Norway, and an affiliated researcher with Norwegian Fiscal Studies at the University of Oslo. 
+I am a senior researcher at Statistics Norway and an affiliated researcher with Norwegian Fiscal Studies at the University of Oslo. 
 
 My research combines economic theory with credible identification strategies and rich administrative data to investigate and address complex issues surrounding economic inequality, tax policy, and labor market dynamics.

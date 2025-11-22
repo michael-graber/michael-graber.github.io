@@ -10,7 +10,7 @@ authors:
 - Klaus Wälde
 
 date: "2008-07-01T00:00:00Z"
-doi: "https://doi.org/10.1111/j.1468-0475.2008.00448.x"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -33,11 +33,14 @@ tags: [Academic labor market; tenure]
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: '/pdf/Graber-Launov-Waelde-2008-GER.pdf'
+links:
+  - name: Published version
+    url: 'https://doi.org/10.1111/j.1468-0475.2008.00448.x'
+  - name: PDF
+    url: '/pdf/Graber-Launov-Waelde-2008.pdf'
+  - name: Cite
+    url: 'citation.bib'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

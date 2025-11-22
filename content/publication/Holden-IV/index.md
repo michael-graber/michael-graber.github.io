@@ -1,6 +1,5 @@
 ---
-title: "Utfordringer for lønnsdannelsen og norsk økonomi (Challenges for wage formation and the
-Norwegian economy)"
+title: "Utfordringer for lønnsdannelsen og norsk økonomi"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -103,10 +102,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Rapporter 2023/47
-  url: https://www.ssb.no/nasjonalregnskap-og-konjunkturer/konjunkturer/artikler/utfordringer-for-lonnsdannelsen-og-norsk-okonomi/_/attachment/inline/8f6c764d-e7f8-4253-9551-88cc187468ce:e296297924c7a3239198cc090521ccc5650b7892/RAPP2023-47.pdf
+- name: PDF
+  url: '/pdf/RAPP2023-47.pdf'
   
-url_pdf: '/pdf/RAPP2023-47.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

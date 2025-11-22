@@ -1,5 +1,5 @@
 ---
-title: "Utdanning og Yrke (Education and Occupation)"
+title: "Utdanning og Yrke"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -34,10 +34,9 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Rapporter 2023/7
-  url: https://www.ssb.no/en/arbeid-og-lonn/sysselsetting/artikler/education-and-occupation
-  
-url_pdf: '/pdf/RAPP2023-07.pdf'
+- name: PDF
+  url: '/pdf/RAPP2023-07.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

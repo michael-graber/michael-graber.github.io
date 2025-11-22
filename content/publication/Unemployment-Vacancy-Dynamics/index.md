@@ -10,7 +10,7 @@ authors:
 - Klaus Wälde
 
 date: "2018-07-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.labeco.2017.04.005"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -33,11 +33,15 @@ tags: [Job search, Unemployment, Financial markets]
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+  - name: Published version
+    url: 'https://doi.org/10.1016/j.labeco.2017.04.005'
+  - name: PDF
+    url: '/pdf/Carillo-Tudela-Graber-Waelde-2017.pdf'
+  - name: Cite
+    url: 'citation.bib'
 
-url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S0927537117302348'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

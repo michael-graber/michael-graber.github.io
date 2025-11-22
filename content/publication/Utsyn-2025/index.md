@@ -1,5 +1,5 @@
 ---
-title: "Kompetansebehov i arbeidsmarkedet og tilbudet av sykepleiere (Skill needs in the labor market and the supply of nurses)"
+title: "Kompetansebehov i arbeidsmarkedet og tilbudet av sykepleiere"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -34,10 +34,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Økonomiske analyser 1/2025 – Utsyn over året 2024
-  url: https://www.ssb.no/nasjonalregnskap-og-konjunkturer/okonomiske-analyser/okonomiske-analyser-1-2025--utsyn-over-aret-2024/_/attachment/inline/a4b2b3e0-048a-473d-acc4-7380048dd0f5:d260b702cfe87423cb6cd82f5171c757979d3daf/OA2025-1_Utsyn09april2025.pdf
+- name: PDF
+  url: '/pdf/Utsyn-2025.pdf'
   
-url_pdf: '/pdf/Utsyn-2025.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

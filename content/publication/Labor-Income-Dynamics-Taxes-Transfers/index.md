@@ -10,7 +10,7 @@ authors:
 - Magne Mogstad
 
 date: "2015-07-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.jpubeco.2014.04.011"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -33,11 +33,16 @@ tags: [Income dynamics, Insurance, Life cycle inequality]
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: '/pdf/Blundell-Graber-Mogstad-2015-JPubE.pdf'
+links:
+- name: Published version
+  url: https://doi.org/10.1016/j.jpubeco.2014.04.011
+- name: PDF
+  url: '/pdf/Blundell-Graber-Mogstad-2015.pdf'
+- name: Replication files
+  url: https://github.com/michael-graber/income-dynamics-taxes-transfers-family
+- name: Cite
+  url: 'citation.bib'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
