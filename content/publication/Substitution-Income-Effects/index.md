@@ -2,7 +2,7 @@
 title: "Substitution and income effects of labor income taxation"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
@@ -11,7 +11,7 @@ authors:
 - Gaute Torsvik
 - Ola Vestad
 
-date: "2025-11-01T00:00:00Z"
+date: "2026-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -25,9 +25,9 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: "" 
+publication_short: ""
 
-abstract: "This paper provides sufficient and necessary conditions for when the elasticity of taxable income (ETI) estimand can be given a causal interpretation as a positively weighted average of heterogeneous individual elasticities of taxable income. We show how the ETI estimand can be used to learn about compensated and uncompensated elasticities by constructing bounds, or obtaining point estimates by either imposing homogeneity assumptions on elasticities or using external estimates of income effects. We apply our results to analyze a reform of the Norwegian tax system that reduced the marginal tax rates on middle and high incomes. Our results show small elasticities of taxable income for middle-income individuals that increase rapidly with income. By combining the ETI estimates with estimates of income effects obtained using lottery winners, we find that (un)compensated elasticities are small for middle incomes but increase steadily with income. Notably, our estimates imply that the Norwegian top-income tax rates exceed the revenue-maximizing one."
+abstract: "The elasticity of taxable income (ETI) parameter is a key quantity in empirical analysis of tax policy and labor supply. We examine when a commonly applied class of ETI estimands can be used to learn about individuals’ ETI parameters and their (un)compensated elasticities of labor supply. We begin by providing necessary and sufficient conditions for these estimands to be given a causal interpretation as a positively weighted average of heterogeneous ETI parameters. We then apply these results to empirically analyze a reform of the Norwegian tax system that reduced the marginal tax rates on middle and high incomes. The estimated ETI parameters increase steadily with income, meaning high-income individuals are more responsive to tax changes than middle-income individuals. Next, we show how (un)compensated elasticities of labor supply can be bounded directly from the ETI estimands, or point identified by combining these estimands with estimates of earnings responses to lottery winnings. The results suggest an (un)compensated elasticity of 0.1 (0.0) for middle-income individuals. The (un)compensated elasticity estimates increase steadily with income to around 0.45 (0.3) for high-income individuals. These findings imply a substantial excess burden of taxation, and that reducing top-income tax rates would increase tax revenue. Our findings are also informative about how the intertemporal elasticity of substitution and the Frisch elasticity vary across the income distribution."
 
 tags: [labor supply elasticities, optimal income taxation]
 
@@ -39,7 +39,7 @@ links:
 # - name: Published version
 #  url: https://doi.org/10.1016/j.jpubeco.2014.04.011
 - name: PDF
-  url: '/pdf/Graber-Håvarstein-Mogstad-Torsvik-Vestad-2025.pdf'
+  url: '/pdf/Graber-Håvarstein-Mogstad-Torsvik-Vestad-2026.pdf'
 # - name: Replication files
 #  url: https://github.com/JeppeDruedahl/HighFreqInc
 - name: Cite
@@ -55,7 +55,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
