@@ -2,13 +2,13 @@
 title: "Nurses' education, employment, and heterogeneous effects of admission"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
 - Lars J. Kirkebøen
 
-date: "2025-04-09"
+date: "2026-04-22"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,9 +22,9 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: "" 
+publication_short: ""
 
-abstract: "Shortage of skilled healthcare workers is a global challenge. In this paper, we study applicants to Norwegian nursing programs. Mapping out their educational and employment trajectories, we find that a substantial share of admitted applicants never complete nursing or work as nurses, but also that many rejected applicants reapply and complete later. Thus, the effect of admitting an applicant on the applicant's completion or labor supply as a nurse is much smaller than one-to-one. Using admission discontinuities, we study the heterogeneous effects of admission on enrollment, completion, and subsequent labor market outcomes. We find indications that the effect of admission is smaller for men than for women, highlighting a possible conflict between the goals of more nurses and gender balance in nursing."
+abstract: "Expanding nursing education is a common response to nurse shortages, but additional study places need not translate one-for-one into practicing nurses. We study applicants to Norwegian nursing programs using administrative register data linked to admission cutoffs from a centralized admissions system. Using a fuzzy regression discontinuity design, we estimate the effect of admission offers for applicants at the margin of admission. Admission raises enrollment in the application year by 65 percentage points, but longer-run effects are smaller: 35 percentage points for all-time enrollment, 27 percentage points for completion, and 19 percentage points for employment as a nurse. These differences reflect both incomplete take-up and completion among admitted applicants and catch-up among initially rejected applicants. We use complier outcome levels to bound the effects of adding new study places. Per 100 additional admission offers, our results imply up to 69 nursing graduates and 53 nurses; per 100 additional filled seats, up to 80 graduates and 61 nurses. Heterogeneity analyses show lower completion and nurse-employment effects for men than for women, while larger effects for older and high-GPA applicants mainly reflect less catch-up among initially rejected applicants."
 
 tags: [Nurse education, college admission, heterogeneous effects, RDD, labor supply]
 
@@ -36,7 +36,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '/pdf/Graber-Kirkebøen-2025.pdf'
+url_pdf: '/pdf/Graber-Kirkebøen-2026.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -46,7 +46,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""

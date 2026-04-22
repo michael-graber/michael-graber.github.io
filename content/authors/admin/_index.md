@@ -27,7 +27,7 @@ education:
   - course: PhD in Economics
     institution: University College London
   - course: Diplom in Economics
-    institution: Julius-Maximilians-Universität Würzburg  
+    institution: Julius-Maximilians-Universität Würzburg
     #year: 2017
 
 # Social/Academic Networking
@@ -52,7 +52,7 @@ social:
 #  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 #- icon: cv
 #  icon_pack: ai
@@ -65,6 +65,6 @@ email: "michael.r.graber@gmail.com"
 highlight_name: false
 ---
 
-I am a senior researcher at Statistics Norway and an affiliated researcher with Norwegian Fiscal Studies at the University of Oslo. 
+I am a senior researcher at Statistics Norway. My research combines economic theory with causal empirical methods and administrative data to study economic inequality, tax policy, and labor markets.
 
-My research combines economic theory with credible identification strategies and rich administrative data to investigate and address complex issues surrounding economic inequality, tax policy, and labor market dynamics.
+**Affiliations:** Norwegian Fiscal Studies at the University of Oslo; Visiting Researcher at BI Norwegian Business School; Affiliate at CESifo Network.
