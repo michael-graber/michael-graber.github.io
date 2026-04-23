@@ -67,4 +67,4 @@ highlight_name: false
 
 I am a senior researcher at Statistics Norway. My research combines economic theory with causal empirical methods and administrative data to study economic inequality, tax policy, and labor markets.
 
-**Affiliations:** Norwegian Fiscal Studies at the University of Oslo; Visiting Researcher at BI Norwegian Business School; Affiliate at CESifo Network.
+I am also affiliated with Norwegian Fiscal Studies at the University of Oslo, a visiting researcher at BI Norwegian Business School, and an affiliate of CESifo.
