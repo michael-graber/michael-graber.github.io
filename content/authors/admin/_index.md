@@ -65,6 +65,6 @@ email: "michael.r.graber@gmail.com"
 highlight_name: false
 ---
 
-I am a senior researcher at Statistics Norway. My research combines economic theory with causal empirical methods and administrative data to study economic inequality, tax policy, and labor markets.
+I am a senior researcher at Statistics Norway. My research combines economic theory with empirical methods and administrative data to study economic inequality, tax policy, and labor markets.
 
 I am also affiliated with Norwegian Fiscal Studies at the University of Oslo, a visiting researcher at BI Norwegian Business School, and an affiliate of CESifo and IZA@LISER.
