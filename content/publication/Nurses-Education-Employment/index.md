@@ -21,7 +21,7 @@ publishDate: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Reject & Resubmit* ***Journal of Human Resources***"
 publication_short: ""
 
 abstract: "Expanding nursing education is a common response to nurse shortages, but additional study places need not translate one-for-one into practicing nurses. We study applicants to Norwegian nursing programs using administrative register data linked to admission cutoffs from a centralized admissions system. Using a fuzzy regression discontinuity design, we estimate the effect of admission offers for applicants at the margin of admission. Admission raises enrollment in the application year by 65 percentage points, but longer-run effects are smaller: 35 percentage points for all-time enrollment, 27 percentage points for completion, and 19 percentage points for employment as a nurse. These differences reflect both incomplete take-up and completion among admitted applicants and catch-up among initially rejected applicants. We use complier outcome levels to bound the effects of adding new study places. Per 100 additional admission offers, our results imply up to 69 nursing graduates and 53 nurses; per 100 additional filled seats, up to 80 graduates and 61 nurses. Heterogeneity analyses show lower completion and nurse-employment effects for men than for women, while larger effects for older and high-GPA applicants mainly reflect less catch-up among initially rejected applicants."
